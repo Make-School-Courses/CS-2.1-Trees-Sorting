@@ -8,8 +8,8 @@
 
 | Class |        Date         |               Topics                |
 |:-----:|:-------------------:|:-----------------------------------:|
-|   1   | Wednesday, April 25 | *Bit Manipulation*                  |
-|   2   |    Monday, April 30 | *Tree Traversals*                   |
+|   1   | Wednesday, April 25 | [Bit Manipulation]                  |
+|   2   |    Monday, April 30 | [Tree Traversals]                   |
 |   3   | Wednesday, May 2    | *Priority Queues & Heaps*           |
 |   4   |    Monday, May 7    | *Rotating Binary Search Trees*      |
 |   5   | Wednesday, May 9    | *Tries & Multiple Key Search Trees* |
@@ -24,3 +24,7 @@
 ## Repository Setup Instructions
 
 Please follow [these instructions](Setup.md) exactly to set up your fork of this repository.
+
+
+[Bit Manipulation]: topics/BitManipulation.md
+[Tree Traversals]: topics/BitManipulation.md#class-2-topics
