@@ -8,8 +8,11 @@
 ### Resources
 - Review Make School's [priority queue and heap slides][heap slides]
 - Watch Make School's [heap video lecture]
+- Watch HackerRank's [heap video]
 - Watch this cute robot [heap sort animation video]
 - Play with VisuAlgo's [interactive heap visualization][VisuAlgo heap]
+- Read Vaidehi Joshi's [article on heaps and heap sort][BaseCS heaps] with beautiful drawings
+- Read CMU's lecture notes on [binary heaps and priority queues][CMU heaps]
 - Read about how [sorting algorithms can be generalized with different priority queue implementations][priority queue sorting]
 
 ### Challenges
@@ -34,9 +37,9 @@
 - Annotate methods with complexity analysis of running time and space (memory)
 
 ### Stretch Challenges
-- Implement priority queue with binary search tree
-- Implement stack with priority queue
-- Generalize binary heap with min or max initialization option
+- Implement stack with priority queue (Hint: this is simple if you use priority values cleverly)
+- Implement double-ended priority queue with binary search tree (allow access to min and max item)
+- Create a generic `BinaryHeap` class with an initialization option to choose min or max heap order
 
 
 [priority queue]: https://en.wikipedia.org/wiki/Priority_queue
@@ -51,7 +54,10 @@
 
 [heap slides]: ../slides/Heaps.pdf
 [heap video lecture]: https://www.youtube.com/watch?v=eBGgEEXnbuk
+[heap video]: https://www.youtube.com/watch?v=t0Cq6tVNRBA
 [heap sort animation video]: https://www.youtube.com/watch?v=H5kAcmGOn4Q
+[BaseCS heaps]: https://medium.com/basecs/heapify-all-the-things-with-heap-sort-55ee1c93af82
+[CMU heaps]: http://www.cs.cmu.edu/~adamchik/15-121/lectures/Binary%20Heaps/heaps.html
 [VisuAlgo heap]: https://visualgo.net/heap
 
 [heap starter code]: ../source/heap.py
