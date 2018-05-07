@@ -16,16 +16,17 @@
 - Read about how [sorting algorithms can be generalized with different priority queue implementations][priority queue sorting]
 
 ### Challenges
-- Implement `MinHeap` class using dynamic array with the following instance methods using [heap starter code]:
+- Implement `BinaryMinHeap` class using dynamic array with the following instance methods using [binary heap starter code]:
     - `is_empty` - check if the heap is empty
     - `size` - return the number of items in the heap
-    - `get_min` - return the minimum item at the root of the heap
-    - `remove_min` - remove and return the minimum item at the root of the heap
-    - `replace_min(item)` - remove and return the minimum item, and insert `item` into this heap
     - `insert(item)` - insert `item` into this heap
+    - `get_min` - return the minimum item at the root of the heap
+    - `delete_min` - remove and return the minimum item at the root of the heap
+    - `replace_min(item)` - remove and return the minimum item, and insert `item` into this heap
     - `_bubble_up(index)` - ensure the heap ordering property is true above `index`, swapping out of order items
     - `_bubble_down(index)` - ensure the heap ordering property is true below `index`, swapping out of order items
-- Run `pytest test_heap.py` to run the [heap unit tests] and fix any failures
+- Run `python binaryheap.py` to test `BinaryMinHeap` class instance methods on a small example
+- Run `pytest binaryheap_test.py` to run the [binary heap unit tests] and fix any failures
 - Implement `heap_sort` algorithm with binary heap (Hint: this is *super* easy)
 - Implement `PriorityQueue` class using binary heap with the following instance methods using [priority queue starter code]:
     - `is_empty` - check if the priority queue is empty
@@ -60,6 +61,6 @@
 [CMU heaps]: http://www.cs.cmu.edu/~adamchik/15-121/lectures/Binary%20Heaps/heaps.html
 [VisuAlgo heap]: https://visualgo.net/heap
 
-[heap starter code]: ../source/heap.py
-[heap unit tests]: ../source/test_heap.py
+[binary heap starter code]: ../source/binaryheap.py
+[binary heap unit tests]: ../source/binaryheap_test.py
 [priority queue starter code]: ../source/priorityqueue.py
