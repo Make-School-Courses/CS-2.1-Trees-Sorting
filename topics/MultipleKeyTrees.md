@@ -33,7 +33,7 @@
 [Julia trie article]: http://juliageist.com/blog/algorithms-and-data-structures/trie-prefix-tree/
 [BaseCS trie article]: https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014
 [BaseCS B-tree article]: https://medium.com/basecs/busying-oneself-with-b-trees-78bbf10522e7
-[B-tree slides]: slides/B-Trees.pdf
+[B-tree slides]: ../slides/B-Trees.pdf
 [2-3 tree article]: https://medium.com/@alexdejeu/9b50e3484a47
 [2-3 tree and B-tree video lecture]: https://www.youtube.com/watch?v=TOb1tuEZ2X4
 [USF trie]: https://www.cs.usfca.edu/~galles/visualization/Trie.html
