@@ -12,13 +12,12 @@
 |   2   |    Monday, April 30 | [Tree Traversals]                   |
 |   3   | Wednesday, May 2    | [Priority Queues & Heaps]           |
 |   4   |    Monday, May 7    | [Rotating Binary Search Trees]      |
-|   5   | Wednesday, May 9    | [Tries & Multiple Key Search Trees] |
-|   6   |    Monday, May 14   | *Graph Types & Representations*     |
-|   7   | Wednesday, May 16   | *Graph Traversals & Components*     |
-|   8   |    Monday, May 21   | *Spanning Trees & Shortest Paths*   |
-|   9   | Wednesday, May 23   | *Independent Project Guidance*      |
-|  10   |    Monday, May 28   | *Recursion & Memoization*           |
-|  11   | Wednesday, May 30   | *Dynamic Programming*               |
+|   5   | Wednesday, May 9    | [Tries & K-ary Search Trees]        |
+|   6   |    Monday, May 14   | [Multiple Key Search Trees]         |
+|   7   | Wednesday, May 16   | Autocomplete Code Review            |
+|   8   |    Monday, May 21   | [Recursion & Memoization]           |
+|   9   | Wednesday, May 23   | *Dynamic Programming*               |
+|  10   | Wednesday, May 30   | *TBD*                               |
 
 
 ## Repository Setup Instructions
@@ -30,4 +29,6 @@ Please follow [these instructions](Setup.md) exactly to set up your fork of this
 [Tree Traversals]: topics/BitManipulation.md#class-2-topics
 [Priority Queues & Heaps]: topics/Heaps.md
 [Rotating Binary Search Trees]: topics/RotatingTrees.md
-[Tries & Multiple Key Search Trees]: topics/MultipleKeyTrees.md
+[Tries & K-ary Search Trees]: topics/MultipleKeyTrees.md
+[Multiple Key Search Trees]: topics/MultipleKeyTrees.md
+[Recursion & Memoization]: topics/RecursionMemoization.md
