@@ -1,4 +1,9 @@
-# CS 4: Advanced Data Structures & Algorithms
+# CS 2.1: Advanced Trees & Sorting Algorithms
+
+## Course Description
+
+In this course students will implement and test advanced data structures and algorithms, benchmark performance, analyze algorithmic complexity, explore trade offs in performance and memory usage, and draw out elegant problem-solving techniques. Key concepts include sorting algorithms, divide-and-conquer recursion, heaps, tries, self-balancing trees, and execution trees. Students will build an original project that applies these data structures to real-world problems such as autocomplete, family trees, and board games. Students will also write technical articles about these topics to deepen their understanding and create their online presence as knowledgeable and proficient software engineers.
+
 
 ## Course Schedule
 
@@ -19,12 +24,6 @@
 |   9   | Wednesday, May 23   | *Dynamic Programming*               |
 |  10   | Wednesday, May 30   | *TBD*                               |
 
-
-## Repository Setup Instructions
-
-Please follow [these instructions](Setup.md) exactly to set up your fork of this repository.
-
-
 [Bit Manipulation]: topics/BitManipulation.md
 [Tree Traversals]: topics/BitManipulation.md#class-2-topics
 [Priority Queues & Heaps]: topics/Heaps.md
@@ -32,3 +31,45 @@ Please follow [these instructions](Setup.md) exactly to set up your fork of this
 [Tries & K-ary Search Trees]: topics/MultipleKeyTrees.md
 [Multiple Key Search Trees]: topics/MultipleKeyTrees.md
 [Recursion & Memoization]: topics/RecursionMemoization.md
+
+
+## Course Specifics
+
+-   Weeks to Completion: 7
+-   Total Seat Hours: 37.5 hours
+-   Total Out-of-Class Hours: 75 hours
+-   Total Hours: 112.5 hours
+-   Units: 3 units
+-   Delivery Method: Residential
+-   Class Sessions: 13 classes, 7 labs
+
+
+## Prerequisites
+
+Students must pass the following course and demonstrate mastery of its competencies:
+-   CS 1.3: Core Data Structures & Algorithms
+
+
+## Evaluation
+
+To pass this course, students must meet the following requirements:
+-   No more than two unexcused absences ("no-call-no-shows")
+-   No more than four excused absences (communicated in advance)
+-   Make up all classwork from all absences
+-   Finish all required tutorials and projects
+-   Pass the summative assessment (final exam)
+
+
+## Make School Policies
+
+-   [Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)
+-   [Accomodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)
+-   [Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)
+-   [Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
+-   [Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
+-   [Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)
+
+
+## Repository Setup
+
+Please follow [these instructions](Setup.md) exactly to set up your fork of this repository.
