@@ -61,6 +61,6 @@
 [CMU heaps]: http://www.cs.cmu.edu/~adamchik/15-121/lectures/Binary%20Heaps/heaps.html
 [VisuAlgo heap]: https://visualgo.net/heap
 
-[binary heap starter code]: ../source/binaryheap.py
-[binary heap unit tests]: ../source/binaryheap_test.py
-[priority queue starter code]: ../source/priorityqueue.py
+[binary heap starter code]: ../Code/binaryheap.py
+[binary heap unit tests]: ../Code/binaryheap_test.py
+[priority queue starter code]: ../Code/priorityqueue.py

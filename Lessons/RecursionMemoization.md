@@ -47,5 +47,5 @@
 [decorator]: https://wiki.python.org/moin/PythonDecorators
 [memoization and decorators article]: https://medium.com/@nkhaja/memoization-and-decorators-with-python-32f607439f84
 
-[recursion starter code]: ../source/recursion.py
-[recursion unit tests]: ../source/recursion_test.py
+[recursion starter code]: ../Code/recursion.py
+[recursion unit tests]: ../Code/recursion_test.py
