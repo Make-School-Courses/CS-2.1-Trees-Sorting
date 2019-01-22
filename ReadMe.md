@@ -28,11 +28,11 @@ In this course students will implement and test advanced data structures and alg
 |  12   |  Tuesday, March 5     | Sorting Algorithms Comparison   |
 |  13   | Thursday, March 7     | Written Assessment (Final Exam) |
 
-[Rotating Binary Search Trees]: topics/RotatingTrees.md
-[Tries & K-ary Search Trees]: topics/MultipleKeyTrees.md
-[Multiple Key Search Trees]: topics/MultipleKeyTrees.md
-[Priority Queues & Heaps]: topics/Heaps.md
-[Bit Manipulation]: topics/BitManipulation.md
+[Rotating Binary Search Trees]: Lessons/RotatingTrees.md
+[Tries & K-ary Search Trees]: Lessons/MultipleKeyTrees.md
+[Multiple Key Search Trees]: Lessons/MultipleKeyTrees.md
+[Priority Queues & Heaps]: Lessons/Heaps.md
+[Bit Manipulation]: Lessons/BitManipulation.md
 
 
 ## Course Specifics
