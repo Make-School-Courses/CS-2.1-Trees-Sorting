@@ -5,32 +5,34 @@
 In this course students will implement and test advanced data structures and algorithms, benchmark performance, analyze algorithmic complexity, explore trade offs in performance and memory usage, and draw out elegant problem-solving techniques. Key concepts include sorting algorithms, divide-and-conquer recursion, heaps, tries, self-balancing trees, and execution trees. Students will build an original project that applies these data structures to real-world problems such as autocomplete, family trees, and board games. Students will also write technical articles about these topics to deepen their understanding and create their online presence as knowledgeable and proficient software engineers.
 
 
-## Course Schedule
+## Schedule
 
-**Course Dates:** Wednesday, April 25 – Friday, June 1, 2018 (6 weeks)
+**Term 3 Course Dates:** Tuesday, January 22 – Thursday, March 7, 2019
 
-**Class Times:** Monday, Wednesday 4–6pm (11 class sessions)
+**Class Times:** Tuesday & Thursday 3:30–5:20pm
 
-| Class |        Date         |               Topics                |
-|:-----:|:-------------------:|:-----------------------------------:|
-|   1   | Wednesday, April 25 | [Bit Manipulation]                  |
-|   2   |    Monday, April 30 | [Tree Traversals]                   |
-|   3   | Wednesday, May 2    | [Priority Queues & Heaps]           |
-|   4   |    Monday, May 7    | [Rotating Binary Search Trees]      |
-|   5   | Wednesday, May 9    | [Tries & K-ary Search Trees]        |
-|   6   |    Monday, May 14   | [Multiple Key Search Trees]         |
-|   7   | Wednesday, May 16   | Autocomplete Code Review            |
-|   8   |    Monday, May 21   | [Recursion & Memoization]           |
-|   9   | Wednesday, May 23   | *Dynamic Programming*               |
-|  10   | Wednesday, May 30   | *TBD*                               |
+| Class |         Date          |             Topics              |
+|:-----:|:---------------------:|:-------------------------------:|
+|   1   |  Tuesday, January 22  | Iterative Sorting Algorithms    |
+|   2   | Thursday, January 24  | Divide-and-Conquer Recursion    |
+|   3   |  Tuesday, January 29  | Recursive Sorting Algorithms    |
+|   4   | Thursday, January 31  | Integer Sorting Algorithms      |
+|   5   |  Tuesday, February 5  | [Rotating Binary Search Trees]  |
+|   6   | Thursday, February 7  | [Tries & K-ary Search Trees]    |
+|   7   | Thursday, February 12 | [Multiple Key Search Trees]     |
+|   8   |  Tuesday, February 14 | *TBD*                           |
+|   –   |  Tuesday, February 19 | *President's Day (Observed)*    |
+|   9   |  Tuesday, February 21 | [Bit Manipulation]              |
+|  10   | Thursday, February 26 | *TBD*                           |
+|  11   | Thursday, February 28 | [Priority Queues & Heaps]       |
+|  12   |  Tuesday, March 5     | Sorting Algorithms Comparison   |
+|  13   | Thursday, March 7     | Written Assessment (Final Exam) |
 
-[Bit Manipulation]: topics/BitManipulation.md
-[Tree Traversals]: topics/BitManipulation.md#class-2-topics
-[Priority Queues & Heaps]: topics/Heaps.md
 [Rotating Binary Search Trees]: topics/RotatingTrees.md
 [Tries & K-ary Search Trees]: topics/MultipleKeyTrees.md
 [Multiple Key Search Trees]: topics/MultipleKeyTrees.md
-[Recursion & Memoization]: topics/RecursionMemoization.md
+[Priority Queues & Heaps]: topics/Heaps.md
+[Bit Manipulation]: topics/BitManipulation.md
 
 
 ## Course Specifics
