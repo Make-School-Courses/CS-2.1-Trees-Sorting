@@ -53,7 +53,7 @@
 [tree sort]: https://en.wikipedia.org/wiki/Tree_sort
 [priority queue sorting]: https://en.wikipedia.org/wiki/Priority_queue#Equivalence_of_priority_queues_and_sorting_algorithms
 
-[heap slides]: ../slides/Heaps.pdf
+[heap slides]: ../Slides/Heaps.pdf
 [heap video lecture]: https://www.youtube.com/watch?v=eBGgEEXnbuk
 [heap video]: https://www.youtube.com/watch?v=t0Cq6tVNRBA
 [heap sort animation video]: https://www.youtube.com/watch?v=H5kAcmGOn4Q

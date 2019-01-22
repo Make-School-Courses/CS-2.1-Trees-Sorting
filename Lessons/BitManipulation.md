@@ -37,7 +37,7 @@ Visit Make School's [Online Academy] to find the [Trees and Mazes] tutorial.
 [depth-first search]: https://en.wikipedia.org/wiki/Depth-first_search
 [breadth-first search]: https://en.wikipedia.org/wiki/Breadth-first_search
 
-[bit manipulation slides]: ../slides/NumberBases.pdf
+[bit manipulation slides]: ../Slides/NumberBases.pdf
 [number bases resources]: https://github.com/Product-College-Courses/CS-3-Core-Data-Structures/blob/master/Class1.md
 [tree traversal resources]: https://github.com/Product-College-Courses/CS-3-Core-Data-Structures/blob/master/Class10.md
 [BaseCS binary]: https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa
