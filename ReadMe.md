@@ -50,6 +50,18 @@ Students must pass the following course and demonstrate mastery of its competenc
 -   CS 1.3: Core Data Structures & Algorithms
 
 
+## Learning Objectives
+
+By the end of this course, students will be able to:
+-   implement and compare several sorting algorithms and know when to use which ones
+-   apply divide-and-conquer recursion techniques to elegantly solve complex problems
+-   analyze complexity of recursive algorithms with recurrence relations and master theorem
+-   implement abstract data types including priority queues, binary heaps, and tries
+-   implement self-balancing tree structures including AVL trees, splay trees, and 2-3 trees
+-   implement tree traversal algorithms: depth-first and breadth-first ordering
+-   utilize bit manipulation algorithms to store and access information in individual bits
+
+
 ## Evaluation
 
 To pass this course, students must meet the following requirements:
