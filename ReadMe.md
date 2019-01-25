@@ -17,7 +17,7 @@ Students will also write technical articles about these topics to deepen their u
 
 | Class |         Date          |              Topics               |
 |:-----:|:---------------------:|:---------------------------------:|
-|   1   |  Tuesday, January 22  | Iterative Sorting Algorithms      |
+|   1   |  Tuesday, January 22  | [Iterative Sorting Algorithms][]  |
 |   2   | Thursday, January 24  | Divide-and-Conquer Recursion      |
 |   3   |  Tuesday, January 29  | Recursive Sorting Algorithms      |
 |   4   | Thursday, January 31  | Integer Sorting Algorithms        |
@@ -32,6 +32,7 @@ Students will also write technical articles about these topics to deepen their u
 |  12   |  Tuesday, March 5     | Sorting Algorithms Comparison     |
 |  13   | Thursday, March 7     | Written Assessment (Final Exam)   |
 
+[Iterative Sorting Algorithms]: Lessons/SortingIterative.md
 [Rotating Binary Search Trees]: Lessons/RotatingTrees.md
 [Tries & K-ary Search Trees]: Lessons/MultipleKeyTrees.md
 [Multiple Key Search Trees]: Lessons/MultipleKeyTrees.md
