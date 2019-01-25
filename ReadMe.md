@@ -2,7 +2,11 @@
 
 ## Course Description
 
-In this course students will implement and test advanced data structures and algorithms, benchmark performance, analyze algorithmic complexity, explore trade offs in performance and memory usage, and draw out elegant problem-solving techniques. Key concepts include sorting algorithms, divide-and-conquer recursion, heaps, tries, self-balancing trees, and execution trees. Students will build an original project that applies these data structures to real-world problems such as autocomplete, family trees, and board games. Students will also write technical articles about these topics to deepen their understanding and create their online presence as knowledgeable and proficient software engineers.
+In this course students will implement and test advanced data structures and algorithms, benchmark performance, analyze algorithmic complexity, explore trade offs in performance and memory usage, and draw out elegant problem-solving techniques.
+
+Key concepts include sorting algorithms, divide-and-conquer recursion, heaps, tries, self-balancing trees, and execution trees. Students will build an original project that applies these data structures to real-world problems such as autocomplete, family trees, and board games.
+
+Students will also write technical articles about these topics to deepen their understanding and create their online presence as knowledgeable and proficient software engineers.
 
 
 ## Schedule
@@ -11,28 +15,27 @@ In this course students will implement and test advanced data structures and alg
 
 **Class Times:** Tuesday & Thursday 3:30–5:20pm
 
-| Class |         Date          |             Topics              |
-|:-----:|:---------------------:|:-------------------------------:|
-|   1   |  Tuesday, January 22  | Iterative Sorting Algorithms    |
-|   2   | Thursday, January 24  | Divide-and-Conquer Recursion    |
-|   3   |  Tuesday, January 29  | Recursive Sorting Algorithms    |
-|   4   | Thursday, January 31  | Integer Sorting Algorithms      |
-|   5   |  Tuesday, February 5  | [Rotating Binary Search Trees]  |
-|   6   | Thursday, February 7  | [Tries & K-ary Search Trees]    |
-|   7   | Thursday, February 12 | [Multiple Key Search Trees]     |
-|   8   |  Tuesday, February 14 | *TBD*                           |
-|   –   |  Tuesday, February 19 | *President's Day (Observed)*    |
-|   9   |  Tuesday, February 21 | [Bit Manipulation]              |
-|  10   | Thursday, February 26 | *TBD*                           |
-|  11   | Thursday, February 28 | [Priority Queues & Heaps]       |
-|  12   |  Tuesday, March 5     | Sorting Algorithms Comparison   |
-|  13   | Thursday, March 7     | Written Assessment (Final Exam) |
+| Class |         Date          |              Topics               |
+|:-----:|:---------------------:|:---------------------------------:|
+|   1   |  Tuesday, January 22  | Iterative Sorting Algorithms      |
+|   2   | Thursday, January 24  | Divide-and-Conquer Recursion      |
+|   3   |  Tuesday, January 29  | Recursive Sorting Algorithms      |
+|   4   | Thursday, January 31  | Integer Sorting Algorithms        |
+|   5   |  Tuesday, February 5  | [Rotating Binary Search Trees][]  |
+|   6   | Thursday, February 7  | [Tries & K-ary Search Trees][]    |
+|   7   |  Tuesday, February 12 | [Multiple Key Search Trees][]     |
+|   8   | Thursday, February 14 | Trees Project Assigned            |
+|   –   |  Tuesday, February 19 | *President's Day (Observed)*      |
+|   9   | Thursday, February 21 | Trees Project Code Review         |
+|  10   |  Tuesday, February 26 | [Priority Queues & Heaps][]       |
+|  11   | Thursday, February 28 | Self-Balancing Trees Recap        |
+|  12   |  Tuesday, March 5     | Sorting Algorithms Comparison     |
+|  13   | Thursday, March 7     | Written Assessment (Final Exam)   |
 
 [Rotating Binary Search Trees]: Lessons/RotatingTrees.md
 [Tries & K-ary Search Trees]: Lessons/MultipleKeyTrees.md
 [Multiple Key Search Trees]: Lessons/MultipleKeyTrees.md
 [Priority Queues & Heaps]: Lessons/Heaps.md
-[Bit Manipulation]: Lessons/BitManipulation.md
 
 
 ## Course Specifics
