@@ -20,7 +20,7 @@ Students will also write technical articles about these topics to deepen their u
 |   1   |  Tuesday, January 22  | [Iterative Sorting Algorithms][]  |
 |   2   | Thursday, January 24  | [Divide-and-Conquer Recursion][]  |
 |   3   |  Tuesday, January 29  | [Recursive Sorting Algorithms][]  |
-|   4   | Thursday, January 31  | Integer Sorting Algorithms        |
+|   4   | Thursday, January 31  | [Integer Sorting Algorithms][]    |
 |   5   |  Tuesday, February 5  | [Rotating Binary Search Trees][]  |
 |   6   | Thursday, February 7  | [Tries & K-ary Search Trees][]    |
 |   7   |  Tuesday, February 12 | [Multiple Key Search Trees][]     |
@@ -35,6 +35,7 @@ Students will also write technical articles about these topics to deepen their u
 [Iterative Sorting Algorithms]: Lessons/SortingIterative.md
 [Divide-and-Conquer Recursion]: Lessons/SortingDivideConquer.md
 [Recursive Sorting Algorithms]: Lessons/SortingRecursive.md
+[Integer Sorting Algorithms]: Lessons/SortingInteger.md
 [Rotating Binary Search Trees]: Lessons/RotatingTrees.md
 [Tries & K-ary Search Trees]: Lessons/MultipleKeyTrees.md
 [Multiple Key Search Trees]: Lessons/MultipleKeyTrees.md
