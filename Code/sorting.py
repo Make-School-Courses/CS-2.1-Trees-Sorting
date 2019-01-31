@@ -2,6 +2,7 @@
 
 from sorting_iterative import is_sorted, bubble_sort, selection_sort, insertion_sort
 from sorting_recursive import split_sort_merge, merge_sort, quick_sort
+from sorting_integer import counting_sort, bucket_sort
 
 
 def random_ints(count=20, min=1, max=50):
