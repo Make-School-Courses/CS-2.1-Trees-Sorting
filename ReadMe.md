@@ -9,28 +9,35 @@ Key concepts include sorting algorithms, divide-and-conquer recursion, heaps, tr
 Students will also write technical articles about these topics to deepen their understanding and create their online presence as knowledgeable and proficient software engineers.
 
 
+## Repository Setup
+
+:warning: **Important:** Please follow [these instructions](Setup.md) exactly to set up your clone of this course repository.
+
+
 ## Schedule
 
-**Term 3 Course Dates:** Tuesday, January 22 – Thursday, March 7, 2019
+**Course Dates:** Tuesday, October 22 – Thursday, December 12, 2019 (7.5 weeks)
 
 **Class Times:** Tuesday & Thursday 3:30–5:20pm
 
-| Class |         Date          |              Topics               |
-|:-----:|:---------------------:|:---------------------------------:|
-|   1   |  Tuesday, January 22  | [Iterative Sorting Algorithms][]  |
-|   2   | Thursday, January 24  | [Divide-and-Conquer Recursion][]  |
-|   3   |  Tuesday, January 29  | [Recursive Sorting Algorithms][]  |
-|   4   | Thursday, January 31  | [Integer Sorting Algorithms][]    |
-|   5   |  Tuesday, February 5  | [K-ary Search Trees & Tries][]    |
-|   6   | Thursday, February 7  | [Autocomplete Challenges][]       |
-|   7   |  Tuesday, February 12 | [Multiple Key Search Trees][]     |
-|   8   | Thursday, February 14 | [Rotating Binary Search Trees][]  |
-|   –   |  Tuesday, February 19 | *President's Day (Observed)*      |
-|   9   | Thursday, February 21 | Trees Project Code Review         |
-|  10   |  Tuesday, February 26 | [Priority Queues & Heaps][]       |
-|  11   | Thursday, February 28 | Self-Balancing Trees Recap        |
-|  12   |  Tuesday, March 5     | Sorting Algorithms Comparison     |
-|  13   | Thursday, March 7     | Written Assessment (Final Exam)   |
+| Class |    Date     |              Topics               |
+|:-----:|:-----------:|:---------------------------------:|
+|   1   | Tue, Oct 22 | [Iterative Sorting Algorithms][]  |
+|   2   | Thu, Oct 24 | [Divide-and-Conquer Recursion][]  |
+|   3   | Tue, Oct 29 | [Recursive Sorting Algorithms][]  |
+|   4   | Thu, Oct 31 | [Integer Sorting Algorithms][]    |
+|   5   | Tue, Nov  5 | [K-ary Search Trees & Tries][]    |
+|   6   | Thu, Nov  7 | [Autocomplete Challenges][]       |
+|   7   | Tue, Nov 12 | [Multiple Key Search Trees][]     |
+|   8   | Thu, Nov 14 | [Rotating Binary Search Trees][]  |
+|   9   | Tue, Nov 19 | Trees Project Kickoff             |
+|  10   | Thu, Nov 21 | Self-Balancing Trees Recap        |
+|  11   | Tue, Nov 26 | Trees Project Lab Day             |
+|   –   | Thu, Nov 28 | *No Class (Thanksgiving Break)*   |
+|  12   | Tue, Dec  3 | [Priority Queues & Heaps][]       |
+|  13   | Thu, Dec  5 | Trees Project Code Review         |
+|  14   | Tue, Dec 10 | Sorting Algorithms Comparison     |
+|  15   | Thu, Dec 12 | Trees Project Presentations       |
 
 [Iterative Sorting Algorithms]: Lessons/SortingIterative.md
 [Divide-and-Conquer Recursion]: Lessons/SortingDivideConquer.md
@@ -43,21 +50,10 @@ Students will also write technical articles about these topics to deepen their u
 [Priority Queues & Heaps]: Lessons/Heaps.md
 
 
-## Course Specifics
-
--   Weeks to Completion: 7
--   Total Seat Hours: 37.5 hours
--   Total Out-of-Class Hours: 75 hours
--   Total Hours: 112.5 hours
--   Units: 3 units
--   Delivery Method: Residential
--   Class Sessions: 13 classes, 7 labs
-
-
 ## Prerequisites
 
 Students must pass the following course and demonstrate mastery of its competencies:
--   CS 1.3: Core Data Structures & Algorithms
+-   [CS 1.3: Core Data Structures & Algorithms](https://github.com/Make-School-Courses/CS-1.3-Core-Data-Structures)
 
 
 ## Learning Objectives
@@ -90,8 +86,3 @@ To pass this course, students must meet the following requirements:
 -   [Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
 -   [Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
 -   [Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)
-
-
-## Repository Setup
-
-Please follow [these instructions](Setup.md) exactly to set up your fork of this repository.
