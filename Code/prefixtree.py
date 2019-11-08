@@ -46,9 +46,9 @@ class PrefixTree:
         # TODO
 
     def _find_node(self, string):
-        """Return a tuple containing the node that terminates the given string
-        in this prefix tree and the node's depth, or if the given string is not
-        completely found, return None and the depth of the last matching node.
+        """Return a pair containing the deepest node in this prefix tree that
+        matches the longest prefix of the given string and the node's depth.
+        The depth returned is equal to the number of prefix characters matched.
         Search is done iteratively with a loop starting from the root node."""
         # Match the empty string
         if len(string) == 0:
@@ -72,7 +72,8 @@ class PrefixTree:
 
     def _traverse(self, node, prefix, visit):
         """Traverse this prefix tree with recursive depth-first traversal.
-        Start at the given node and visit each node with the given function."""
+        Start at the given node with the given prefix representing its path in
+        this prefix tree and visit each node with the given visit function."""
         # TODO
 
 
