@@ -20,34 +20,46 @@ Students will also write technical articles about these topics to deepen their u
 
 **Class Times:** Tuesday & Thursday 3:30–5:20pm
 
-| Class |    Date     |              Topics               |
-|:-----:|:-----------:|:---------------------------------:|
+| Class |    Date     |           Lesson Topics           | Deliverable Due or Quiz |
+|:-----:|:-----------:|:----------------------------------|:------------------------|
 |   1   | Tue, Oct 22 | [Iterative Sorting Algorithms][]  |
 |   2   | Thu, Oct 24 | [Divide-and-Conquer Recursion][]  |
 |   3   | Tue, Oct 29 | [Recursive Sorting Algorithms][]  |
 |   4   | Thu, Oct 31 | Recursive Sorting Algorithms Recap|
 |   5   | Tue, Nov  5 | [K-ary Search Trees & Tries][]    |
-|   6   | Thu, Nov  7 | [Autocomplete Challenges][]       |
-|   7   | Tue, Nov 12 | [Rotating Binary Search Trees][]  |
-|   8   | Thu, Nov 14 | [Multiple Key Search Trees][]     |
-|   9   | Tue, Nov 19 | Trees Project Kickoff             |
-|  10   | Thu, Nov 21 | Self-Balancing Trees Recap        |
+|   6   | Thu, Nov  7 | Prefix Trees (aka Tries) Lab Day  |
+|   7   | Tue, Nov 12 | [Rotating Binary Search Trees][]  | Due: Sorting Challenges |
+|   8   | Thu, Nov 14 | [Multiple Key Search Trees][]     | Quiz: Sorting Algorithms |
+|   9   | Tue, Nov 19 | Self-Balancing Trees Recap        | Due: Prefix Tree Challenges |
+|  10   | Thu, Nov 21 | Trees Project Kickoff             | Quiz: Self-Balancing Trees |
 |  11   | Tue, Nov 26 | Trees Project Lab Day             |
 |   –   | Thu, Nov 28 | *No Class (Thanksgiving Break)*   |
 |  12   | Tue, Dec  3 | [Priority Queues & Heaps][]       |
-|  13   | Thu, Dec  5 | [Integer Sorting Algorithms][]    |
-|  14   | Tue, Dec 10 | Sorting Algorithms Comparison     |
-|  15   | Thu, Dec 12 | Trees Project Presentations       |
+|  13   | Thu, Dec  5 | [Integer Sorting Algorithms][]    | Due: Binary Heap Challenges |
+|  14   | Tue, Dec 10 | Sorting Algorithms Comparison     | Quiz: Priority Queues & Heaps <br> Due: Integer Sorting Challenges |
+|  15   | Thu, Dec 12 | Trees Project Presentations       | Due: Trees Project & Article |
 
 [Iterative Sorting Algorithms]: Lessons/SortingIterative.md
 [Divide-and-Conquer Recursion]: Lessons/SortingDivideConquer.md
 [Recursive Sorting Algorithms]: Lessons/SortingRecursive.md
 [Integer Sorting Algorithms]: Lessons/SortingInteger.md
 [K-ary Search Trees & Tries]: Lessons/KaryTreesTries.md
-[Autocomplete Challenges]: Lessons/KaryTreesTries.md#Challenges
 [Rotating Binary Search Trees]: Lessons/RotatingTrees.md
 [Multiple Key Search Trees]: Lessons/MultipleKeyTrees.md
 [Priority Queues & Heaps]: Lessons/Heaps.md
+
+
+### Deliverable Schedule
+
+|         Deliverable         | Date Started |  Date Due   |
+|:----------------------------|:------------:|:-----------:|
+| Sorting Challenges          | Tue, Oct 22  | Tue, Nov 12 |
+| [Prefix Tree Challenges][]  | Tue, Nov  5  | Tue, Nov 19 |
+| [Binary Heap Challenges][]  | Tue, Dec  3  | Thu, Dec  5 |
+| Trees Project & Article     | Thu, Nov 21  | Thu, Dec 12 |
+
+[Prefix Tree Challenges]: Lessons/KaryTreesTries.md#Challenges
+[Binary Heap Challenges]: Lessons/Heaps.md#Challenges
 
 
 ## Prerequisites
