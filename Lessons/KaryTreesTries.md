@@ -2,7 +2,8 @@
 
 ### Topics
 - [*K*-ary tree (*k*-way tree)][k-ary tree]
-- [Trie (prefix tree, radix tree)][trie]
+- [Trie (prefix tree, digital tree)][trie]
+- [Radix tree (radix trie, compact prefix tree)][radix tree]
 
 ### Resources
 - Read Vaidehi Joshi's [BaseCS trie article] with beautiful drawings
@@ -38,9 +39,16 @@
 - Write additional unit tests for the `PrefixTree` class to ensure operations are correct
 - Annotate class instance methods with complexity analysis of running time
 
+### Stretch Challenges
+- Implement this additional `PrefixTree` class instance method:
+    - `delete(string)` - remove `string` from this prefix tree, if present, or else raise `ValueError`
+- Write additional unit tests for the `PrefixTree` class, including several test cases for the `delete` instance method to ensure each case the operation should handle is correct
+- Implement a [radix tree (radix trie, compact prefix tree)][radix tree] - "a space-optimized trie (prefix tree) in which each node that is the only child is merged with its parent"
+
 
 [k-ary tree]: https://en.wikipedia.org/wiki/K-ary_tree
 [trie]: https://en.wikipedia.org/wiki/Trie
+[radix tree]: https://en.wikipedia.org/wiki/Radix_tree
 
 [trie slides]: https://docs.google.com/presentation/d/11LDrlureRaXyg6ZfjgJvdMZohLfk-0JYuB1RW2xVZDE/edit
 [trie article]: https://medium.freecodecamp.org/trie-prefix-tree-algorithm-ee7ab3fe3413
