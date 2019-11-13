@@ -34,8 +34,18 @@ class PrefixTreeNodeTest(unittest.TestCase):
         # Verify node 'A' has node 'B' as child
         assert node_A.num_children() == 1
         assert node_A.has_child('B') is True
-        child_node = node_A.get_child('B')
-        assert child_node is node_B
+        assert node_A.get_child('B') is node_B
         # Verify adding node 'B' as child to node 'A' again raises error
         with self.assertRaises(ValueError):
             node_A.add_child('B', node_B)
+        # Create node 'C' and add it as another child to node 'A'
+        node_C = PrefixTreeNode('C')
+        node_A.add_child('C', node_C)
+        # Verify node 'A' has both nodes 'B' and 'C' as children
+        assert node_A.num_children() == 2
+        assert node_A.has_child('B') is True
+        assert node_A.has_child('C') is True
+        assert node_A.get_child('C') is node_C
+        # Verify adding node 'C' as child to node 'A' again raises error
+        with self.assertRaises(ValueError):
+            node_A.add_child('C', node_C)

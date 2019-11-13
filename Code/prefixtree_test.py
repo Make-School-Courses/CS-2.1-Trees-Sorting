@@ -227,7 +227,7 @@ class PrefixTreeTest(unittest.TestCase):
         assert tree.complete('C') == []
         assert tree.complete('D') == []
         assert tree.complete('XYZ') == ['XYZ']
-        assert tree.complete('XY') == []
+        assert tree.complete('XY') == ['XYZ']
         assert tree.complete('YZ') == []
         assert tree.complete('X') == ['XYZ']
         assert tree.complete('Y') == []
