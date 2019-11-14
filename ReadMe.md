@@ -28,16 +28,16 @@ Students will also write technical articles about these topics to deepen their u
 |   4   | Thu, Oct 31 | Recursive Sorting Algorithms Recap|
 |   5   | Tue, Nov  5 | [K-ary Search Trees & Tries][]    |
 |   6   | Thu, Nov  7 | Prefix Trees (aka Tries) Lab Day  |
-|   7   | Tue, Nov 12 | [Rotating Binary Search Trees][]  | Due: Sorting Challenges |
-|   8   | Thu, Nov 14 | [Multiple Key Search Trees][]     | Quiz: Sorting Algorithms |
-|   9   | Tue, Nov 19 | Self-Balancing Trees Recap        | Due: Prefix Tree Challenges |
-|  10   | Thu, Nov 21 | Trees Project Kickoff             | Quiz: Self-Balancing Trees |
+|   7   | Tue, Nov 12 | Prefix Trees (aka Tries) Lab Day  | [Due]: Sorting Challenges |
+|   8   | Thu, Nov 14 | [Rotating Binary Search Trees][]  | [Quiz]: Sorting Algorithms |
+|   9   | Tue, Nov 19 | [Multiple Key Search Trees][]     | [Due]: Prefix Tree Challenges |
+|  10   | Thu, Nov 21 | Trees Project Kickoff             | [Quiz]: Self-Balancing Trees |
 |  11   | Tue, Nov 26 | Trees Project Lab Day             |
 |   –   | Thu, Nov 28 | *No Class (Thanksgiving Break)*   |
 |  12   | Tue, Dec  3 | [Priority Queues & Heaps][]       |
-|  13   | Thu, Dec  5 | [Integer Sorting Algorithms][]    | Due: Binary Heap Challenges |
-|  14   | Tue, Dec 10 | Sorting Algorithms Comparison     | Quiz: Priority Queues & Heaps <br> Due: Integer Sorting Challenges |
-|  15   | Thu, Dec 12 | Trees Project Presentations       | Due: Trees Project & Article |
+|  13   | Thu, Dec  5 | [Integer Sorting Algorithms][]    | [Due]: Binary Heap Challenges |
+|  14   | Tue, Dec 10 | Sorting Algorithms Comparison     | [Quiz]: Priority Queues & Heaps <br> Due: Integer Sorting Challenges |
+|  15   | Thu, Dec 12 | Trees Project Presentations       | [Due]: Trees Project & Article |
 
 [Iterative Sorting Algorithms]: Lessons/SortingIterative.md
 [Divide-and-Conquer Recursion]: Lessons/SortingDivideConquer.md
@@ -47,6 +47,9 @@ Students will also write technical articles about these topics to deepen their u
 [Rotating Binary Search Trees]: Lessons/RotatingTrees.md
 [Multiple Key Search Trees]: Lessons/MultipleKeyTrees.md
 [Priority Queues & Heaps]: Lessons/Heaps.md
+
+[Due]: ReadMe.md#Deliverable-Schedule
+[Quiz]: https://make.sc/cs21-quiz-study-guides
 
 
 ### Deliverable Schedule
@@ -65,7 +68,7 @@ Students will also write technical articles about these topics to deepen their u
 ## Prerequisites
 
 Students must pass the following course and demonstrate mastery of its competencies:
--   [CS 1.3: Core Data Structures & Algorithms](https://github.com/Make-School-Courses/CS-1.3-Core-Data-Structures)
+-   [CS 1.3: Core Data Structures & Algorithms](https://make.sc/cs13-repo)
 
 
 ## Learning Objectives
@@ -83,11 +86,15 @@ By the end of this course, students will be able to:
 ## Evaluation
 
 To pass this course, students must meet the following requirements:
+-   Actively participate in class and abide by the attendance policy
 -   No more than two unexcused absences ("no-call-no-shows")
 -   No more than four excused absences (communicated in advance)
 -   Make up all classwork from all absences
--   Finish all required tutorials and projects
--   Pass the summative assessment (final exam)
+-   Complete the required challenges and final project
+-   Pass the summative assessment (total of all quiz scores)
+    - Review the [quiz study guides][] with the lesson topics and learning outcomes (skills) you need to demonstrate, links to the best resources to review while preparing
+
+[quiz study guides]: https://make.sc/cs21-quiz-study-guides
 
 
 ## Make School Policies
