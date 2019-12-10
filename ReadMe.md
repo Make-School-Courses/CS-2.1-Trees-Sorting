@@ -36,13 +36,14 @@ Students will also write technical articles about these topics to deepen their u
 |   –   | Thu, Nov 28 | *No Class (Thanksgiving Break)*   |
 |  12   | Tue, Dec  3 | [Priority Queues & Heaps][]       |
 |  13   | Thu, Dec  5 | [Integer Sorting Algorithms][]    | [Due]: Binary Heap Challenges |
-|  14   | Tue, Dec 10 | Sorting Algorithms Comparison     | [Quiz]: Priority Queues & Heaps <br> Due: Integer Sorting Challenges |
+|  14   | Tue, Dec 10 | [Sorting Algorithms Comparison][] | [Quiz]: Binary Heaps & Heap Sort <br> [Due]: Integer Sorting Challenges |
 |  15   | Thu, Dec 12 | [Trees Project][] Presentations   | [Due]: Trees Project & Article |
 
 [Iterative Sorting Algorithms]: Lessons/SortingIterative.md
 [Divide-and-Conquer Recursion]: Lessons/SortingDivideConquer.md
 [Recursive Sorting Algorithms]: Lessons/SortingRecursive.md
 [Integer Sorting Algorithms]: Lessons/SortingInteger.md
+[Sorting Algorithms Comparison]: Lessons/SortingComparison.md
 [K-ary Search Trees & Tries]: Lessons/KaryTreesTries.md
 [Rotating Binary Search Trees]: Lessons/RotatingTrees.md
 [Multiple Key Search Trees]: Lessons/MultipleKeyTrees.md
