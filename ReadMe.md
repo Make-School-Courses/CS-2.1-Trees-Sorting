@@ -16,52 +16,57 @@ Students will also write technical articles about these topics to deepen their u
 
 ## Schedule
 
-**Course Dates:** Tuesday, October 22 – Thursday, December 12, 2019 (7.5 weeks)
+**Term 4 Course Dates:**
+Monday, March 30, 2020 – Friday, May 15, 2020 (7 weeks, 14 class sessions)
 
-**Class Times:** Tuesday & Thursday 3:30–5:20pm
+**Class Times:**
+2:30–5:15pm on Monday & Wednesday (Section A) or Tuesday & Thursday (Section B)
 
-| Class |    Date     |           Lesson Topics           | Deliverable Due or Quiz |
-|:-----:|:-----------:|:----------------------------------|:------------------------|
-|   1   | Tue, Oct 22 | [Iterative Sorting Algorithms][]  |
-|   2   | Thu, Oct 24 | [Divide-and-Conquer Recursion][]  |
-|   3   | Tue, Oct 29 | [Recursive Sorting Algorithms][]  |
-|   4   | Thu, Oct 31 | Recursive Sorting Algorithms Recap|
-|   5   | Tue, Nov  5 | [K-ary Search Trees & Tries][]    |
-|   6   | Thu, Nov  7 | Prefix Trees (aka Tries) Lab Day  |
-|   7   | Tue, Nov 12 | Prefix Trees (aka Tries) Lab Day  | [Due]: Sorting Challenges |
-|   8   | Thu, Nov 14 | [Rotating Binary Search Trees][]  | [Quiz]: Sorting Algorithms |
-|   9   | Tue, Nov 19 | [Multiple Key Search Trees][]     | [Due]: Prefix Tree Challenges |
-|  10   | Thu, Nov 21 | [Trees Project][] Kickoff         |
-|  11   | Tue, Nov 26 | [Trees Project][] Lab Day         | [Quiz]: Self-Balancing Trees |
-|   –   | Thu, Nov 28 | *No Class (Thanksgiving Break)*   |
-|  12   | Tue, Dec  3 | [Priority Queues & Heaps][]       |
-|  13   | Thu, Dec  5 | [Integer Sorting Algorithms][]    | [Due]: Binary Heap Challenges |
-|  14   | Tue, Dec 10 | [Sorting Algorithms Comparison][] | [Quiz]: Binary Heaps & Heap Sort <br> [Due]: Integer Sorting Challenges |
-|  15   | Thu, Dec 12 | [Trees Project][] Presentations   | [Due]: Trees Project & Article |
+| Class | Date&nbsp;by&nbsp;Section       | Lesson Topics                     | Deliverable Due or Quiz          |
+|:-----:|:-------------------------------:|:----------------------------------|:---------------------------------|
+|  1 | A: Mon, Mar 30 <br> B: Tue, Mar 31 | [Iterative Sorting Algorithms][]  |
+|  2 | A: Wed, Apr  1 <br> B: Thu, Apr  2 | [Divide-and-Conquer Recursion][]  |
+|  3 | A: Mon, Apr  6 <br> B: Tue, Apr  7 | [Recursive Sorting Algorithms][]  | [Due]: Sorting Challenges 1 & 2  |
+|  4 | A: Wed, Apr  8 <br> B: Thu, Apr  9 | [Integer Sorting Algorithms][]    |
+|  5 | A: Mon, Apr 13 <br> B: Tue, Apr 14 | [Prefix Trees (aka Tries)][]      | [Due]: Sorting Challenges 3 & 4  |
+|  6 | A: Wed, Apr 15 <br> B: Thu, Apr 16 | [Prefix Trees (aka Tries)][] Lab  | [Quiz]: Sorting Algorithms       |
+|  7 | A: Mon, Apr 20 <br> B: Tue, Apr 21 | [Rotating Binary Search Trees][]  | [Due]: Prefix Tree Challenges    |
+|  8 | A: Wed, Apr 22 <br> B: Thu, Apr 23 | [Multiple Key Search Trees][]     |
+|  9 | A: Mon, Apr 27 <br> B: Tue, Apr 28 | [Trees Project][] Kickoff         |
+| 10 | A: Wed, Apr 29 <br> B: Thu, Apr 30 | [Trees Project][] Lab             | [Quiz]: Self-Balancing Trees     |
+| 11 | A: Mon, May  4 <br> B: Tue, May  5 | [Priority Queues & Heaps][]       |
+| 12 | A: Wed, May  6 <br> B: Thu, May  7 | [Trees Project][] Lab             | [Due]: Binary Heap Challenges    |
+| 13 | A: Mon, May 11 <br> B: Tue, May 12 | [Sorting Algorithms Comparison][] | [Quiz]: Binary Heaps & Heap Sort |
+| 14 | A: Wed, May 13 <br> B: Thu, May 14 | [Trees Project][] Presentations   | [Due]: Trees Project & Article   |
 
 [Iterative Sorting Algorithms]: Lessons/SortingIterative.md
 [Divide-and-Conquer Recursion]: Lessons/SortingDivideConquer.md
 [Recursive Sorting Algorithms]: Lessons/SortingRecursive.md
 [Integer Sorting Algorithms]: Lessons/SortingInteger.md
 [Sorting Algorithms Comparison]: Lessons/SortingComparison.md
-[K-ary Search Trees & Tries]: Lessons/KaryTreesTries.md
+[Prefix Trees (aka Tries)]: Lessons/KaryTreesTries.md
 [Rotating Binary Search Trees]: Lessons/RotatingTrees.md
 [Multiple Key Search Trees]: Lessons/MultipleKeyTrees.md
 [Priority Queues & Heaps]: Lessons/Heaps.md
 
-[Due]: ReadMe.md#Deliverable-Schedule
+[Due]: #Deliverable-Schedule
 [Quiz]: https://make.sc/cs21-quiz-study-guides
 
 
 ### Deliverable Schedule
 
-|         Deliverable         | Date Started |  Date Due   |
-|:----------------------------|:------------:|:-----------:|
-| Sorting Challenges          | Tue, Oct 22  | Tue, Nov 12 |
-| [Prefix Tree Challenges][]  | Tue, Nov  5  | Tue, Nov 19 |
-| [Binary Heap Challenges][]  | Tue, Dec  3  | Thu, Dec  5 |
-| [Trees Project][] & Article | Tue, Nov 19  | Thu, Dec 12 |
+| Deliverable                  | Date Started | Date Due    |
+|:-----------------------------|:------------:|:-----------:|
+| Sorting Challenges [1] & [2] | Mon, Mar 30  | Tue, Apr  7 |
+| Sorting Challenges [3] & [4] | Mon, Apr  6  | Tue, Apr 14 |
+| [Prefix Tree Challenges][]   | Mon, Apr 13  | Tue, Apr 21 |
+| [Binary Heap Challenges][]   | Mon, May  4  | Thu, May  7 |
+| [Trees Project][] & Article  | Mon, Apr 27  | Thu, May 14 |
 
+[1]: Lessons/SortingIterative.md#Challenges
+[2]: Lessons/SortingDivideConquer.md#Challenges
+[3]: Lessons/SortingRecursive.md#Challenges
+[4]: Lessons/SortingInteger.md#Challenges
 [Prefix Tree Challenges]: Lessons/KaryTreesTries.md#Challenges
 [Binary Heap Challenges]: Lessons/Heaps.md#Challenges
 [Trees Project]: https://make.sc/cs21-trees-project
