@@ -27,13 +27,13 @@ Monday, March 30, 2020 – Friday, May 15, 2020 (7 weeks, 14 class sessions)
 |  1 | A: Mon, Mar 30 <br> B: Tue, Mar 31 | [Iterative Sorting Algorithms][]  |
 |  2 | A: Wed, Apr  1 <br> B: Thu, Apr  2 | [Divide-and-Conquer Recursion][]  |
 |  3 | A: Mon, Apr  6 <br> B: Tue, Apr  7 | [Recursive Sorting Algorithms][]  | [Due]: Sorting Challenges 1 & 2  |
-|  4 | A: Wed, Apr  8 <br> B: Thu, Apr  9 | [Integer Sorting Algorithms][]    |
-|  5 | A: Mon, Apr 13 <br> B: Tue, Apr 14 | [Prefix Trees (aka Tries)][]      | [Due]: Sorting Challenges 3 & 4  |
-|  6 | A: Wed, Apr 15 <br> B: Thu, Apr 16 | [Prefix Trees (aka Tries)][] Lab  | [Quiz]: Sorting Algorithms       |
-|  7 | A: Mon, Apr 20 <br> B: Tue, Apr 21 | [Rotating Binary Search Trees][]  | [Due]: Prefix Tree Challenges    |
-|  8 | A: Wed, Apr 22 <br> B: Thu, Apr 23 | [Multiple Key Search Trees][]     |
+|  4 | A: Wed, Apr  8 <br> B: Thu, Apr  9 | [Recursive Sorting Algorithms][] Lab |
+|  5 | A: Mon, Apr 13 <br> B: Tue, Apr 14 | [Integer Sorting Algorithms][]    |
+|  6 | A: Wed, Apr 15 <br> B: Thu, Apr 16 | [Prefix Trees (aka Tries)][]      | [Due]: Sorting Challenges 3 & 4  |
+|  7 | A: Mon, Apr 20 <br> B: Tue, Apr 21 | [Prefix Trees (aka Tries)][] Lab  | [Quiz]: Sorting Algorithms       |
+|  8 | A: Wed, Apr 22 <br> B: Thu, Apr 23 | [Rotating Binary Search Trees][]  | [Due]: Prefix Tree Challenges    |
 |  9 | A: Mon, Apr 27 <br> B: Tue, Apr 28 | [Trees Project][] Kickoff         |
-| 10 | A: Wed, Apr 29 <br> B: Thu, Apr 30 | [Trees Project][] Lab             | [Quiz]: Self-Balancing Trees     |
+| 10 | A: Wed, Apr 29 <br> B: Thu, Apr 30 | [Multiple Key Search Trees][]     | [Quiz]: Self-Balancing Trees     |
 | 11 | A: Mon, May  4 <br> B: Tue, May  5 | [Priority Queues & Heaps][]       |
 | 12 | A: Wed, May  6 <br> B: Thu, May  7 | [Trees Project][] Lab             | [Due]: Binary Heap Challenges    |
 | 13 | A: Mon, May 11 <br> B: Tue, May 12 | [Sorting Algorithms Comparison][] | [Quiz]: Binary Heaps & Heap Sort |
@@ -58,8 +58,8 @@ Monday, March 30, 2020 – Friday, May 15, 2020 (7 weeks, 14 class sessions)
 | Deliverable                  | Date Started | Date Due    |
 |:-----------------------------|:------------:|:-----------:|
 | Sorting Challenges [1] & [2] | Mon, Mar 30  | Tue, Apr  7 |
-| Sorting Challenges [3] & [4] | Mon, Apr  6  | Tue, Apr 14 |
-| [Prefix Tree Challenges][]   | Mon, Apr 13  | Tue, Apr 21 |
+| Sorting Challenges [3] & [4] | Mon, Apr  6  | Thu, Apr 16 |
+| [Prefix Tree Challenges][]   | Wed, Apr 15  | Thu, Apr 23 |
 | [Binary Heap Challenges][]   | Mon, May  4  | Thu, May  7 |
 | [Trees Project][] & Article  | Mon, Apr 27  | Thu, May 14 |
 
