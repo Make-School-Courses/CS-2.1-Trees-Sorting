@@ -1,9 +1,9 @@
-## K-ary Search Trees & Tries
+## Prefix Trees (aka Tries)
 
 ### Topics
-- [*K*-ary tree (*k*-way tree)][k-ary tree]
-- [Trie (prefix tree, digital tree)][trie]
-- [Radix tree (radix trie, compact prefix tree)][radix tree]
+- [*M*-ary tree (aka *k*-way tree)][m-ary tree]
+- [Prefix tree (aka trie, digital tree)][trie]
+- [Radix tree (aka radix trie, compact prefix tree)][radix tree]
 
 ### Resources
 - Read Vaidehi Joshi's [BaseCS trie article] with beautiful drawings
@@ -46,7 +46,7 @@
 - Implement a [radix tree (radix trie, compact prefix tree)][radix tree] - "a space-optimized trie (prefix tree) in which each node that is the only child is merged with its parent"
 
 
-[k-ary tree]: https://en.wikipedia.org/wiki/K-ary_tree
+[m-ary tree]: https://en.wikipedia.org/wiki/M-ary_tree
 [trie]: https://en.wikipedia.org/wiki/Trie
 [radix tree]: https://en.wikipedia.org/wiki/Radix_tree
 

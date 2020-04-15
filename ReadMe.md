@@ -44,7 +44,7 @@ Monday, March 30, 2020 – Friday, May 15, 2020 (7 weeks, 14 class sessions)
 [Recursive Sorting Algorithms]: Lessons/SortingRecursive.md
 [Integer Sorting Algorithms]: Lessons/SortingInteger.md
 [Sorting Algorithms Comparison]: Lessons/SortingComparison.md
-[Prefix Trees (aka Tries)]: Lessons/KaryTreesTries.md
+[Prefix Trees (aka Tries)]: Lessons/PrefixTreesTries.md
 [Rotating Binary Search Trees]: Lessons/RotatingTrees.md
 [Multiple Key Search Trees]: Lessons/MultipleKeyTrees.md
 [Priority Queues & Heaps]: Lessons/Heaps.md
@@ -67,7 +67,7 @@ Monday, March 30, 2020 – Friday, May 15, 2020 (7 weeks, 14 class sessions)
 [2]: Lessons/SortingDivideConquer.md#Challenges
 [3]: Lessons/SortingRecursive.md#Challenges
 [4]: Lessons/SortingInteger.md#Challenges
-[Prefix Tree Challenges]: Lessons/KaryTreesTries.md#Challenges
+[Prefix Tree Challenges]: Lessons/PrefixTreesTries.md#Challenges
 [Binary Heap Challenges]: Lessons/Heaps.md#Challenges
 [Trees Project]: https://make.sc/cs21-trees-project
 
