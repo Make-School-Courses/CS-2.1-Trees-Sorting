@@ -118,7 +118,11 @@ def create_prefix_tree(strings):
     print(f'matches? {matches}')
 
 
-if __name__ == '__main__':
+def main():
+    # Simpe test case of string with partial substring overlaps
+    strings = ['ABC', 'ABD', 'A', 'XYZ']
+    create_prefix_tree(strings)
+
     # Create a dictionary of tongue-twisters with similar words to test with
     tongue_twisters = {
         'Seashells': 'Shelly sells seashells by the sea shore'.split(),
@@ -128,6 +132,11 @@ if __name__ == '__main__':
     }
     # Create a prefix tree with the similar words in each tongue-twister
     for name, strings in tongue_twisters.items():
-        print('\n' + '='*80 + '\n')
         print(f'{name} tongue-twister:')
         create_prefix_tree(strings)
+        if len(tongue_twisters) > 1:
+            print('\n' + '='*80 + '\n')
+
+
+if __name__ == '__main__':
+    main()
