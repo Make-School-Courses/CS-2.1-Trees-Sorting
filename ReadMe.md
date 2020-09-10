@@ -13,6 +13,11 @@ Students will also write technical articles about these topics to deepen their u
 
 :warning: **Important:** Please follow [these instructions](Setup.md) exactly to set up your clone of this course repository.
 
+## Course Specifics
+
+**Course Delivery**: online | 7 weeks | 14 sessions
+
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
 ## Schedule
 
@@ -103,6 +108,11 @@ To pass this course, students must meet the following requirements:
 
 [quiz study guides]: https://make.sc/cs21-quiz-study-guides
 
+##  Information Resources
+
+Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+
+- [make.sc/library](http://make.sc/library)
 
 ## Make School Policies
 
