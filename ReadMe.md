@@ -16,9 +16,7 @@ Students will also write technical articles about these topics to deepen their u
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
-**Assignment Submission**
-
-All projects, articles, and quizzes will be submitted via the course page on Gradescope.
+**Assignment Submission**: All projects, articles, and quizzes will be submitted via the course page on Gradescope.
 
 ## Schedule
 
