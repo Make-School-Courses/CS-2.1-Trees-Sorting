@@ -9,9 +9,6 @@ Key concepts include sorting algorithms, divide-and-conquer recursion, heaps, tr
 Students will also write technical articles about these topics to deepen their understanding and create their online presence as knowledgeable and proficient software engineers.
 
 
-## Repository Setup
-
-:warning: **Important:** Please follow [these instructions](Setup.md) exactly to set up your clone of this course repository.
 
 ## Course Specifics
 
@@ -19,30 +16,34 @@ Students will also write technical articles about these topics to deepen their u
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
+**Assignment Submission**
+
+All projects, articles, and quizzes will be submitted via the course page on Gradescope.
+
 ## Schedule
 
-**Term 4 Course Dates:**
-Monday, March 30, 2020 – Friday, May 15, 2020 (7 weeks, 14 class sessions)
 
-**Class Times:**
-2:30–5:15pm on Monday & Wednesday (Section A) or Tuesday & Thursday (Section B)
+**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
 
-| Class | Date&nbsp;by&nbsp;Section       | Lesson Topics                     | Deliverable Due or Quiz          |
-|:-----:|:-------------------------------:|:----------------------------------|:---------------------------------|
-|  1 | A: Mon, Mar 30 <br> B: Tue, Mar 31 | [Iterative Sorting Algorithms][]  |
-|  2 | A: Wed, Apr  1 <br> B: Thu, Apr  2 | [Divide-and-Conquer Recursion][]  |
-|  3 | A: Mon, Apr  6 <br> B: Tue, Apr  7 | [Recursive Sorting Algorithms][]  | [Due]: Sorting Challenges 1 & 2  |
-|  4 | A: Wed, Apr  8 <br> B: Thu, Apr  9 | [Recursive Sorting Algorithms][] Lab |
-|  5 | A: Mon, Apr 13 <br> B: Tue, Apr 14 | [Integer Sorting Algorithms][]    |
-|  6 | A: Wed, Apr 15 <br> B: Thu, Apr 16 | [Prefix Trees (aka Tries)][]      | [Due]: Sorting Challenges 3 & 4  |
-|  7 | A: Mon, Apr 20 <br> B: Tue, Apr 21 | [Prefix Trees (aka Tries)][] Lab  | [Quiz]: Sorting Algorithms       |
-|  8 | A: Wed, Apr 22 <br> B: Thu, Apr 23 | [Rotating Binary Search Trees][]  | [Due]: Prefix Tree Challenges    |
-|  9 | A: Mon, Apr 27 <br> B: Tue, Apr 28 | [Trees Project][] Kickoff         |
-| 10 | A: Wed, Apr 29 <br> B: Thu, Apr 30 | [Multiple Key Search Trees][]     | [Quiz]: Self-Balancing Trees     |
-| 11 | A: Mon, May  4 <br> B: Tue, May  5 | [Priority Queues & Heaps][]       |
-| 12 | A: Wed, May  6 <br> B: Thu, May  7 | [Trees Project][] Lab             | [Due]: Binary Heap Challenges    |
-| 13 | A: Mon, May 11 <br> B: Tue, May 12 | [Sorting Algorithms Comparison][] | [Quiz]: Binary Heaps & Heap Sort |
-| 14 | A: Wed, May 13 <br> B: Thu, May 14 | [Trees Project][] Presentations   | [Due]: Trees Project & Article   |
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Wed, Oct 21               | [Iterative Sorting Algorithms][] |
+|  2 |  Mon, Oct 26               | [Divide-and-Conquer Recursion][] |
+|  3 |  Wed, Oct 28               | [Recursive Sorting Algorithms][] | [Due]: Sorting Challenges 1 & 2
+|  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
+|  4 |  Wed, Nov 4               | [Recursive Sorting Algorithms][] Lab | Quiz 1
+|  5 |  Mon, Nov 9               | [Integer Sorting Algorithms][] |
+|  6 |  Wed, Nov 11               | [Prefix Trees (aka Tries)][]  | [Due]: Sorting Challenges 3 & 4
+|  7 |  Mon, Nov 16              | [Prefix Trees (aka Tries)][] Lab  |  
+|  8 |  Wed, Nov 18              | [Rotating Binary Search Trees][]  | [Due]: Prefix Tree Challenges 
+|  9 |  Mon, Nov 23              | [Trees Project][] Kickoff  | Quiz 2
+|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
+| 10 |  Mon, Nov 30              | [Multiple Key Search Trees][]  | 
+| 11 |  Wed, Dec 2              | [Priority Queues & Heaps][]  | [Due]: Binary Heap Challenges 
+| 12 |  Mon, Dec 7              | [Sorting Algorithms Comparison][]  | Quiz 3
+| 13 |  Wed, Dec 9                | [Trees Project][] Presentations  | [Due]: Trees Project & Article 
 
 [Iterative Sorting Algorithms]: Lessons/SortingIterative.md
 [Divide-and-Conquer Recursion]: Lessons/SortingDivideConquer.md
@@ -57,16 +58,6 @@ Monday, March 30, 2020 – Friday, May 15, 2020 (7 weeks, 14 class sessions)
 [Due]: #Deliverable-Schedule
 [Quiz]: https://make.sc/cs21-quiz-study-guides
 
-
-### Deliverable Schedule
-
-| Deliverable                  | Date Started | Date Due    |
-|:-----------------------------|:------------:|:-----------:|
-| Sorting Challenges [1] & [2] | Mon, Mar 30  | Tue, Apr  7 |
-| Sorting Challenges [3] & [4] | Mon, Apr  6  | Thu, Apr 16 |
-| [Prefix Tree Challenges][]   | Wed, Apr 15  | Thu, Apr 23 |
-| [Binary Heap Challenges][]   | Mon, May  4  | Thu, May  7 |
-| [Trees Project][] & Article  | Mon, Apr 27  | Thu, May 14 |
 
 [1]: Lessons/SortingIterative.md#Challenges
 [2]: Lessons/SortingDivideConquer.md#Challenges
@@ -103,10 +94,8 @@ To pass this course, students must meet the following requirements:
 -   No more than four excused absences (communicated in advance)
 -   Make up all classwork from all absences
 -   Complete the required challenges and final project
--   Pass the summative assessment (total of all quiz scores)
-    - Review the [quiz study guides][] with the lesson topics and learning outcomes (skills) you need to demonstrate, links to the best resources to review while preparing
-
-[quiz study guides]: https://make.sc/cs21-quiz-study-guides
+-   Pass all quizzes
+-   If you are not passing any assignment you have a week to fix any errors and resubmit
 
 ##  Information Resources
 
@@ -114,11 +103,13 @@ Any additional resources you may need (online books, etc.) can be found here. Yo
 
 - [make.sc/library](http://make.sc/library)
 
-## Make School Policies
+## Make School Course Policies
 
--   [Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)
--   [Accomodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)
--   [Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)
--   [Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
--   [Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
--   [Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)
+- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
+- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
+- [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
+- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
+- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
+- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
+- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
