@@ -81,5 +81,5 @@
 [selection sort with Gypsy folk dance]: https://www.youtube.com/watch?v=0-W8OEwLebQ
 [insertion sort with Romanian folk dance]: https://www.youtube.com/watch?v=EdIKIf9mHk0
 
-[sorting starter code]: ../Code/sorting_iterative.py
-[sorting unit tests]: ../Code/sorting_test.py
+[sorting starter code]: https://github.com/Make-School-Courses/CS-2.1-Trees-Sorting/blob/master/Code/sorting_iterative.py
+[sorting unit tests]: https://github.com/Make-School-Courses/CS-2.1-Trees-Sorting/blob/master/Code/sorting_test.py
