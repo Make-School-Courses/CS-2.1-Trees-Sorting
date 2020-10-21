@@ -25,23 +25,23 @@ Students will also write technical articles about these topics to deepen their u
 
 **Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
+| Class |          Date          |                 Topics                  | Assignments |
+|:-----:|:----------------------:|:---------------------------------------:|:---:|
 |  1 |  Wed, Oct 21               | [Iterative Sorting Algorithms][] |
-|  2 |  Mon, Oct 26               | [Divide-and-Conquer Recursion][] |
-|  3 |  Wed, Oct 28               | [Recursive Sorting Algorithms][] | [Due]: Sorting Challenges 1 & 2
+|  2 |  Mon, Oct 26               | Divide-and-Conquer Recursion |
+|  3 |  Wed, Oct 28               | Recursive Sorting Algorithms | [Due]: [Iterative Sorting Challenges](https://www.gradescope.com/courses/202246/assignments/778873)
 |  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
-|  4 |  Wed, Nov 4               | [Recursive Sorting Algorithms][] Lab | Quiz 1
-|  5 |  Mon, Nov 9               | [Integer Sorting Algorithms][] |
-|  6 |  Wed, Nov 11               | [Prefix Trees (aka Tries)][]  | [Due]: Sorting Challenges 3 & 4
-|  7 |  Mon, Nov 16              | [Prefix Trees (aka Tries)][] Lab  |  
-|  8 |  Wed, Nov 18              | [Rotating Binary Search Trees][]  | [Due]: Prefix Tree Challenges 
-|  9 |  Mon, Nov 23              | [Trees Project][] Kickoff  | Quiz 2
+|  4 |  Wed, Nov 4               | Recursive Sorting Algorithms Lab | Quiz 1
+|  5 |  Mon, Nov 9               | Integer Sorting Algorithms |
+|  6 |  Wed, Nov 11               | Prefix Trees (aka Tries)  | 
+|  7 |  Mon, Nov 16              | Prefix Trees (aka Tries) Lab  |  
+|  8 |  Wed, Nov 18              | Rotating Binary Search Trees[]  | 
+|  9 |  Mon, Nov 23              | Trees Project Kickoff  | Quiz 2
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
-| 10 |  Mon, Nov 30              | [Multiple Key Search Trees][]  | 
-| 11 |  Wed, Dec 2              | [Priority Queues & Heaps][]  | [Due]: Binary Heap Challenges 
-| 12 |  Mon, Dec 7              | [Sorting Algorithms Comparison][]  | Quiz 3
-| 13 |  Wed, Dec 9                | [Trees Project][] Presentations  | [Due]: Trees Project & Article 
+| 10 |  Mon, Nov 30              | Multiple Key Search Trees  | 
+| 11 |  Wed, Dec 2              | Priority Queues & Heaps  | 
+| 12 |  Mon, Dec 7              | Sorting Algorithms Comparison  | Quiz 3
+| 13 |  Wed, Dec 9                | Trees Project Presentations  | Due: Trees Project & Article 
 
 [Iterative Sorting Algorithms]: Lessons/SortingIterative.md
 [Divide-and-Conquer Recursion]: Lessons/SortingDivideConquer.md

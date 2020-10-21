@@ -1,9 +1,13 @@
 ## Iterative Sorting Algorithms
 
+### Slides
+
+You can see the slides [here](https://docs.google.com/presentation/d/1zDfRhO0aYyPbsbDqSgTgFLJ5vDyg788JWwdqA3eZBJs/edit#slide=id.p)
+
 ### Topics
 - Algorithm to check if items in a list are in sorted order
 - Counting how many [inversions] there are in a list
-- Classic iterative [sorting algorithms]: [bubble sort], [selection sort], [insertion sort]
+- Classic iterative [sorting algorithms]: [bubble sort], [selection sort], [insertion sort] 
 
 ### Resources
 - Play with VisuAlgo's [interactive sorting visualizations][VisuAlgo sorting] including bubble, selection, and insertion sort
