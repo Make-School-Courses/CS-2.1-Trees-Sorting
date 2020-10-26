@@ -5,6 +5,10 @@
 - Revisit [binary search] to see how it divides and conquers
 - [Merge sort] and [merge algorithm]
 
+### Slides
+
+Slides can be found [here](https://docs.google.com/presentation/d/1LTda1-FQBugh9LWPZyp22YWyD_a7-Xq0MdjYzlQKqvU/edit#slide=id.ga51044badf_0_112)
+
 ### Resources
 - Play with VisuAlgo's [interactive sorting visualizations][VisuAlgo sorting] including merge sort
 - Play with USF's [interactive sorting animations][USF sorting] including merge sort

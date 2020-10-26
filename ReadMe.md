@@ -28,7 +28,7 @@ Students will also write technical articles about these topics to deepen their u
 | Class |          Date          |                 Topics                  | Assignments |
 |:-----:|:----------------------:|:---------------------------------------:|:---:|
 |  1 |  Wed, Oct 21               | [Iterative Sorting Algorithms][] |
-|  2 |  Mon, Oct 26               | Divide-and-Conquer Recursion |
+|  2 |  Mon, Oct 26               | [Divide-and-Conquer Recursion] |
 |  3 |  Wed, Oct 28               | Recursive Sorting Algorithms | [Due]: [Iterative Sorting Challenges](https://www.gradescope.com/courses/202246/assignments/778873)
 |  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
 |  4 |  Wed, Nov 4               | Recursive Sorting Algorithms Lab | Quiz 1
