@@ -8,6 +8,10 @@
 - [In-place] algorithms
 - [Recursive] algorithm analysis with tree diagrams, [recurrence relations], and [master theorem]
 
+### Slides
+
+Slides can be found [here](https://docs.google.com/presentation/d/1OX6-ZACyMJJgDBIkb9fPjuSg-ulQE1QvJUVk0UsZt6Q/edit#slide=id.ga72a327168_0_68)
+
 ### Resources
 - Play with VisuAlgo's [interactive sorting visualizations][VisuAlgo sorting] including quick sort
 - Play with USF's [interactive sorting animations][USF sorting] including quick sort
