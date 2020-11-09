@@ -4,6 +4,7 @@
   - [Iterative Sorting Algorithms](Lessons/SortingIterative.md)
   - [Divide-and-Conquer Recursion]( Lessons/SortingDivideConquer.md)
   - [Recursive Sorting Algorithms](Lessons/SortingRecursive.md)
+  - [Integer Sorting Algorithms](Lessons/SortingInteger.md)
 
 
 - **Assignments**

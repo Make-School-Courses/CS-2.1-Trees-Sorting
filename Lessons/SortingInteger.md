@@ -4,6 +4,10 @@
 - Contrast [comparison sorting] with [integer sorting]
 - Integer sorting algorithms: [pigeonhole sort], [counting sort], [bucket sort], [radix sort]
 
+### Slides
+
+You can find the slides [here](https://docs.google.com/presentation/d/1tBUL_2bLyKCrt-BU4cE_Dum-H03n-qvthJOKJfhYYX8/edit#slide=id.p)
+
 ### Resources
 - Play with VisuAlgo's [interactive sorting visualizations][VisuAlgo sorting] including [counting sort][VisuAlgo counting sort] and [radix sort][VisuAlgo radix sort]
 - Play with USF's interactive sorting animations including [counting sort][USF counting sort], [bucket sort][USF bucket sort], and [radix sort][USF radix sort]
