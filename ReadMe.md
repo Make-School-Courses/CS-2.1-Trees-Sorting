@@ -32,7 +32,7 @@ Students will also write technical articles about these topics to deepen their u
 |  3 |  Wed, Oct 28               | [Divide-and-Conquer Recursion] | Due: [Iterative Sorting Challenges](https://www.gradescope.com/courses/202246/assignments/778873)
 |  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
 |  4 |  Wed, Nov 4               | [Recursive Sorting Algorithms] | 
-|  5 |  Mon, Nov 9               | Integer Sorting Algorithms | Quiz 1
+|  5 |  Mon, Nov 9               | Integer Sorting Algorithms | [Quiz 1]
 |  6 |  Wed, Nov 11               | Prefix Trees (aka Tries)  | Due:[Recursive Sorting Challenges](https://www.gradescope.com/courses/202246/assignments/818780)
 |  7 |  Mon, Nov 16              | Prefix Trees (aka Tries) Lab  |  
 |  8 |  Wed, Nov 18              | Rotating Binary Search Trees  | 
@@ -55,6 +55,7 @@ Students will also write technical articles about these topics to deepen their u
 
 [Due]: #Deliverable-Schedule
 [Quiz]: https://make.sc/cs21-quiz-study-guides
+[Quiz 1]: Lessons/Quiz1.md
 
 
 [1]: Lessons/SortingIterative.md#Challenges
