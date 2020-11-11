@@ -35,7 +35,7 @@ Students will also write technical articles about these topics to deepen their u
 |  5 |  Mon, Nov 9               | [Integer Sorting Algorithms] | [Quiz 1]
 |  6 |  Wed, Nov 11               | Prefix Trees (aka Tries)  | Due:[Recursive Sorting Challenges](https://www.gradescope.com/courses/202246/assignments/818780)
 |  7 |  Mon, Nov 16              | Prefix Trees (aka Tries) Lab  |  
-|  8 |  Wed, Nov 18              | Rotating Binary Search Trees  | 
+|  8 |  Wed, Nov 18              | Rotating Binary Search Trees  | Due: [Integer Sorting Challenges](https://www.gradescope.com/courses/202246/assignments/837964)
 |  9 |  Mon, Nov 23              | Trees Project Kickoff  | Quiz 2
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
 | 10 |  Mon, Nov 30              | Multiple Key Search Trees  | 
