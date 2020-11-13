@@ -27,21 +27,21 @@ Students will also write technical articles about these topics to deepen their u
 
 | Class |          Date          |                 Topics                  | Assignments |
 |:-----:|:----------------------:|:---------------------------------------:|:---:|
-|  1 |  Wed, Oct 21               | [Iterative Sorting Algorithms][] |
+|  1 |  Wed, Oct 21               | [Iterative Sorting Algorithms]|
 |  2 |  Mon, Oct 26               | [Divide-and-Conquer Recursion] |
-|  3 |  Wed, Oct 28               | [Divide-and-Conquer Recursion] | Due: [Iterative Sorting Challenges](https://www.gradescope.com/courses/202246/assignments/778873)
+|  3 |  Wed, Oct 28               | [Divide-and-Conquer Recursion] | Due: [Iterative Sorting Challenges](Assignments/IterativeSort.md)
 |  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
 |  4 |  Wed, Nov 4               | [Recursive Sorting Algorithms] | 
 |  5 |  Mon, Nov 9               | [Integer Sorting Algorithms] | [Quiz 1]
-|  6 |  Wed, Nov 11               | Prefix Trees (aka Tries)  | Due:[Recursive Sorting Challenges](https://www.gradescope.com/courses/202246/assignments/818780)
+|  6 |  Wed, Nov 11               | [Prefix Trees (aka Tries)]  | Due:[Recursive Sorting Challenges](Assignments/RecursiveSort.md)
 |  7 |  Mon, Nov 16              | Prefix Trees (aka Tries) Lab  |  
-|  8 |  Wed, Nov 18              | Rotating Binary Search Trees  | Due: [Integer Sorting Challenges](https://www.gradescope.com/courses/202246/assignments/837964)
-|  9 |  Mon, Nov 23              | Trees Project Kickoff  | Quiz 2
-|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
-| 10 |  Mon, Nov 30              | Multiple Key Search Trees  | 
-| 11 |  Wed, Dec 2              | Priority Queues & Heaps  | 
-| 12 |  Mon, Dec 7              | Sorting Algorithms Comparison  | Quiz 3
-| 13 |  Wed, Dec 9                | Trees Project Presentations  | Due: Trees Project & Article 
+|  8 |  Wed, Nov 18              | [Rotating Binary Search Trees]  | Due: [Integer Sorting Challenges](Assignments/IntegerSort.md)
+|  9 |  Mon, Nov 23              | [Trees Project Kickoff]  | Quiz 2
+|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** | Due: [Prefix Trees](Assignments/Prefix Trees.md)
+| 10 |  Mon, Nov 30              | [Multiple Key Search Trees]  | 
+| 11 |  Wed, Dec 2              | [Priority Queues & Heaps]  | 
+| 12 |  Mon, Dec 7              | [Sorting Algorithms Comparison]  | Quiz 3, Due: [Heaps](Assignments/Heaps.md)
+| 13 |  Wed, Dec 9                | Trees Project Presentations  | Due: [Trees Project](Assignments/TreesProject) & [Article](Assignments/TechArticle.md) 
 
 [Iterative Sorting Algorithms]: Lessons/SortingIterative.md
 [Divide-and-Conquer Recursion]: Lessons/SortingDivideConquer.md
@@ -92,9 +92,17 @@ To pass this course, students must meet the following requirements:
 -   No more than two unexcused absences ("no-call-no-shows")
 -   No more than four excused absences (communicated in advance)
 -   Make up all classwork from all absences
--   Complete the required challenges and final project
--   Pass all quizzes
+-   Complete the required coding challenges (rubrics on assignment pages). You will need to pass with an average score of 2 or higher
+    - Iterative Sort
+    - Recursive Sort
+    - Integer Sort
+    - Prefix Trees
+    - Binary Heaps
+    - Trees Project
+-   Pass all quizzes with a 70% or higher
+-   Complete the technical article assignment with a 70% or higher
 -   If you are not passing any assignment you have a week to fix any errors and resubmit
+- You are allowed to submit assignments after the due date with instructor permission 
 
 ##  Information Resources
 
