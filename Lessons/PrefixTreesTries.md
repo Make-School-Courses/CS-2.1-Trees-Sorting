@@ -5,6 +5,10 @@
 - [Prefix tree (aka trie, digital tree)][trie]
 - [Radix tree (aka radix trie, compact prefix tree)][radix tree]
 
+## Slides
+
+Slides can be found [here](https://docs.google.com/presentation/d/1oWa6cfOwp9ZcBYPANbxouEZ13ksg2uBFQvkbWQ9wRpY/edit#slide=id.ga2a904a8c6_0_63)
+
 ### Resources
 - Read Vaidehi Joshi's [BaseCS trie article] with beautiful drawings
 - Read Julia Geist's [trie article] and [trie slides] with animations and code samples
