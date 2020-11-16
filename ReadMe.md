@@ -36,7 +36,7 @@ Students will also write technical articles about these topics to deepen their u
 |  6 |  Wed, Nov 11               | [Prefix Trees (aka Tries)]  | Due:[Recursive Sorting Challenges](Assignments/RecursiveSort.md)
 |  7 |  Mon, Nov 16              | Prefix Trees (aka Tries) Lab  |  
 |  8 |  Wed, Nov 18              | [Rotating Binary Search Trees]  | Due: [Integer Sorting Challenges](Assignments/IntegerSort.md)
-|  9 |  Mon, Nov 23              | [Trees Project Kickoff]  | Quiz 2
+|  9 |  Mon, Nov 23              | Trees Project Kickoff  | Quiz 2
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** | Due: [Prefix Trees](Assignments/Prefix Trees.md)
 | 10 |  Mon, Nov 30              | [Multiple Key Search Trees]  | 
 | 11 |  Wed, Dec 2              | [Priority Queues & Heaps]  | 
@@ -92,7 +92,7 @@ To pass this course, students must meet the following requirements:
 -   No more than two unexcused absences ("no-call-no-shows")
 -   No more than four excused absences (communicated in advance)
 -   Make up all classwork from all absences
--   Complete the required coding challenges (rubrics on assignment pages). You will need to pass with an average score of 2 or higher
+-   Complete the required coding challenges (rubric for all coding challenges here). You will need to pass with an average score of 2 or higher
     - Iterative Sort
     - Recursive Sort
     - Integer Sort
@@ -103,6 +103,7 @@ To pass this course, students must meet the following requirements:
 -   Complete the technical article assignment with a 70% or higher
 -   If you are not passing any assignment you have a week to fix any errors and resubmit
 - You are allowed to submit assignments after the due date with instructor permission 
+- You are allowed to drop one coding challenge or quiz
 
 ##  Information Resources
 
