@@ -8,9 +8,9 @@
 
 - **Assignments**
 
-  - [Iterative Sorting Algorithms](https://www.gradescope.com/courses/202246/assignments/778873)
-  - [Recursive Sorting Challenges](https://www.gradescope.com/courses/202246/assignments/818780)
-  - [Integer Sorting Challenges]()
+  - [Iterative Sorting Algorithms](Assignments/IterativeSort.md)
+  - [Recursive Sorting Challenges](Assignments/RecursiveSort.md)
+  - [Integer Sorting Challenges](Assignments/IntegerSort.md)
 
 - **Quizzes**
   - [Quiz 1](Lessons/Quiz1.md)
