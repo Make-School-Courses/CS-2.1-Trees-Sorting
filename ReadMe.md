@@ -34,14 +34,14 @@ Students will also write technical articles about these topics to deepen their u
 |  4 |  Wed, Nov 4               | [Recursive Sorting Algorithms] | 
 |  5 |  Mon, Nov 9               | [Integer Sorting Algorithms] | [Quiz 1]
 |  6 |  Wed, Nov 11               | [Prefix Trees (aka Tries)]  | Due:[Recursive Sorting Challenges](Assignments/RecursiveSort.md)
-|  7 |  Mon, Nov 16              | Prefix Trees (aka Tries) Lab  |  
-|  8 |  Wed, Nov 18              | [Rotating Binary Search Trees]  | Due: [Integer Sorting Challenges](Assignments/IntegerSort.md)
-|  9 |  Mon, Nov 23              | Trees Project Kickoff  | Quiz 2
-|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** | Due: [Prefix Trees](Assignments/PrefixTrees.md)
-| 10 |  Mon, Nov 30              | [Multiple Key Search Trees]  | 
-| 11 |  Wed, Dec 2              | [Priority Queues & Heaps]  | 
-| 12 |  Mon, Dec 7              | [Sorting Algorithms Comparison]  | Quiz 3, Due: [Heaps](Assignments/Heaps.md)
-| 13 |  Wed, Dec 9                | Trees Project Presentations  | Due: [Trees Project](Assignments/TreesProject) & [Article](Assignments/TechArticle.md) 
+|  7 |  Mon, Nov 16              | Lab Day |  
+|  8 |  Wed, Nov 18              | Prefix Trees II   | Due: [Integer Sorting Challenges](Assignments/IntegerSort.md)
+|  9 |  Mon, Nov 23              | [Rotating Binary Search Trees] | 
+|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** | (Assignments/PrefixTrees.md)
+| 10 |  Mon, Nov 30              | Trees Project Kickoff  | Due: [Prefix Trees]
+| 11 |  Wed, Dec 2              |  [Multiple Key Search Trees]  | Quiz 2
+| 12 |  Mon, Dec 7              | [Priority Queues & Heaps]  |  Due: [Heaps](Assignments/Heaps.md)
+| 13 |  Wed, Dec 9                | [Sorting Algorithms Comparison]  | Due: [Trees Project](Assignments/TreesProject) & [Article](Assignments/TechArticle.md) 
 
 [Iterative Sorting Algorithms]: Lessons/SortingIterative.md
 [Divide-and-Conquer Recursion]: Lessons/SortingDivideConquer.md
