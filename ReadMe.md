@@ -39,8 +39,8 @@ Students will also write technical articles about these topics to deepen their u
 |  9 |  Mon, Nov 23              | [Rotating Binary Search Trees] | 
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** | (Assignments/PrefixTrees.md)
 | 10 |  Mon, Nov 30              | Trees Project Kickoff  | Due: Prefix Trees
-| 11 |  Wed, Dec 2              |  [Multiple Key Search Trees]  | Quiz 2
-| 12 |  Mon, Dec 7              | [Priority Queues & Heaps]  |  
+| 11 |  Wed, Dec 2              |  [Multiple Key Search Trees]  | 
+| 12 |  Mon, Dec 7              | [Priority Queues & Heaps]  |  Quiz 2
 | 13 |  Wed, Dec 9                | [Sorting Algorithms Comparison]  | Due: [Trees Project](Assignments/TreesProject) & [Article](Assignments/TechArticle.md) 
 
 [Iterative Sorting Algorithms]: Lessons/SortingIterative.md
