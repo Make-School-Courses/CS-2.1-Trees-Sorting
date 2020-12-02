@@ -4,6 +4,10 @@
 - [Self-balancing trees] with multiple keys: [2-3 tree], [B-tree]
 - [Space-partitioning] trees: [quadtree], [octree], [k-d tree]
 
+### Slides
+
+Slides can be found [here](https://docs.google.com/presentation/d/1GTO0F3GmgxFHQPE6RKHU2eMGFn9Fd-Qlk_g0EPF7KtA/edit#slide=id.p)
+
 ### Resources
 - Read Vaidehi Joshi's [BaseCS B-tree article] with beautiful drawings
 - Read Alex Dejeu's [2-3 tree article] with animations and code samples
