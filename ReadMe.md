@@ -20,28 +20,27 @@ Students will also write technical articles about these topics to deepen their u
 
 ## Schedule
 
-
-**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
+**Course Dates:** Wednesday, January 20 – Wednesday, March 3, 2020 (7 weeks)
 
 **Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  | Assignments |
-|:-----:|:----------------------:|:---------------------------------------:|:---:|
-|  1 |  Wed, Oct 21               | [Iterative Sorting Algorithms]|
-|  2 |  Mon, Oct 26               | [Divide-and-Conquer Recursion] |
-|  3 |  Wed, Oct 28               | [Divide-and-Conquer Recursion] | Due: [Iterative Sorting Challenges](Assignments/IterativeSort.md)
-|  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
-|  4 |  Wed, Nov 4               | [Recursive Sorting Algorithms] | 
-|  5 |  Mon, Nov 9               | [Integer Sorting Algorithms] | [Quiz 1]
-|  6 |  Wed, Nov 11               | [Prefix Trees (aka Tries)]  | Due:[Recursive Sorting Challenges](Assignments/RecursiveSort.md)
-|  7 |  Mon, Nov 16              | Lab Day |  
-|  8 |  Wed, Nov 18              | Prefix Trees II   | Due: [Integer Sorting Challenges](Assignments/IntegerSort.md)
-|  9 |  Mon, Nov 23              | [Rotating Binary Search Trees] | 
-|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** | (Assignments/PrefixTrees.md)
-| 10 |  Mon, Nov 30              | Trees Project Kickoff  | Due: Prefix Trees
-| 11 |  Wed, Dec 2              |  [Multiple Key Search Trees]  | 
-| 12 |  Mon, Dec 7              | [Priority Queues & Heaps]  |  Quiz 2
-| 13 |  Wed, Dec 9                | [Sorting Algorithms Comparison]  | Due: [Trees Project](Assignments/TreesProject) & [Article](Assignments/TechArticle.md) 
+|:-----:|:----------------------:|:---------------------------------------:| :---:|
+|  - |  Mon, Jan 18               | **No Class - MLK Day** |
+|  1 |  Wed, Jan 20               | [Iterative Sorting Algorithms] |
+|  2 |  Mon, Jan 25               | [Divide-and-Conquer Recursion] |
+|  3 |  Wed, Jan 27               | [Divide-and-Conquer Recursion] | Quiz 1 released, Due: [Iterative Sorting Challenges](Assignments/IterativeSort.md)
+|  4 |  Mon, Feb 1                | [Recursive Sorting Algorithms] |
+|  5 |  Wed, Feb 3                | [Integer Sorting Algorithms] | Due:[Recursive Sorting Challenges](Assignments/RecursiveSort.md)
+|  6 |  Mon, Feb 8                | Lab Day | Quiz 2 released
+|  7 |  Wed, Feb 10               | [Prefix Trees (aka Tries)]| Due: [Integer Sorting Challenges](Assignments/IntegerSort.md)
+|  8 |  Mon, Feb 15               | [Prefix Trees (aka Tries)] II  |
+|  9 |  Wed, Feb 17               | [Rotating Binary Search Trees] | Quiz 3 released
+| 10 |  Mon, Feb 22               |[Multiple Key Search Trees] | Due: Prefix Tree Challenges
+| 11 |  Wed, Feb 24               |[Priority Queues & Heaps] |
+| 12 |  Mon, Mar 1                | Special Topics  | Due: Heaps Challenge
+| 13 |  Wed, Mar 3                | Lab Day | Due: [Trees Project](Assignments/TreesProject) & [Article](Assignments/TechArticle.md)
+
 
 [Iterative Sorting Algorithms]: Lessons/SortingIterative.md
 [Divide-and-Conquer Recursion]: Lessons/SortingDivideConquer.md
