@@ -20,7 +20,7 @@ Students will also write technical articles about these topics to deepen their u
 
 ## Schedule
 
-**Course Dates:** Wednesday, January 20 – Wednesday, March 3, 2020 (7 weeks)
+**Course Dates:** Wednesday, January 20 – Wednesday, March 3, 2021 (7 weeks)
 
 **Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
 
