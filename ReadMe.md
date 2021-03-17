@@ -8,7 +8,8 @@ Key concepts include sorting algorithms, divide-and-conquer recursion, heaps, tr
 
 Students will also write technical articles about these topics to deepen their understanding and create their online presence as knowledgeable and proficient software engineers.
 
-
+## Prerequisites:  
+-   [CS 1.3: Core Data Structures & Algorithms](https://make.sc/cs13-repo)
 
 ## Course Specifics
 
@@ -16,30 +17,40 @@ Students will also write technical articles about these topics to deepen their u
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
-**Assignment Submission**: All projects, articles, and quizzes will be submitted via the course page on Gradescope.
+## Learning Outcomes
+
+By the end of this course, students will be able to:
+
+-   implement and compare several sorting algorithms and know when to use which ones
+-   apply divide-and-conquer recursion techniques to elegantly solve complex problems
+-   analyze complexity of recursive algorithms with recurrence relations and master theorem
+-   implement abstract data types including priority queues, binary heaps, and tries
+-   implement self-balancing tree structures including AVL trees, splay trees, and 2-3 trees
+-   implement tree traversal algorithms: depth-first and breadth-first ordering
+-   utilize bit manipulation algorithms to store and access information in individual bits
 
 ## Schedule
 
-**Course Dates:** Wednesday, January 20 – Wednesday, March 3, 2021 (7 weeks)
+**Course Dates:** Monday, January 20 – Wednesday, May 12, 2021 (7 weeks)
 
 **Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  | Assignments |
 |:-----:|:----------------------:|:---------------------------------------:| :---:|
-|  - |  Mon, Jan 18               | **No Class - MLK Day** |
-|  1 |  Wed, Jan 20               | [Iterative Sorting Algorithms] |
-|  2 |  Mon, Jan 25               | [Divide-and-Conquer Recursion] |
-|  3 |  Wed, Jan 27               | [Divide-and-Conquer Recursion] | Quiz 1 released, Due: [Iterative Sorting Challenges](Assignments/IterativeSort.md)
-|  4 |  Mon, Feb 1                | [Recursive Sorting Algorithms] |
-|  5 |  Wed, Feb 3                | [Integer Sorting Algorithms] | Due:[Recursive Sorting Challenges](Assignments/RecursiveSort.md)
-|  6 |  Mon, Feb 8                | Lab Day | Quiz 2 released
-|  7 |  Wed, Feb 10               | [Prefix Trees (aka Tries)]| Due: [Integer Sorting Challenges](Assignments/IntegerSort.md)
-|  8 |  Mon, Feb 15               | [Prefix Trees (aka Tries)] II  |
-|  9 |  Wed, Feb 17               | [Rotating Binary Search Trees] | Quiz 3 released
-| 10 |  Mon, Feb 22               |[Multiple Key Search Trees] | Due: Prefix Tree Challenges
-| 11 |  Wed, Feb 24               |[Priority Queues & Heaps] |
-| 12 |  Mon, Mar 1                | Special Topics  | Due: Heaps Challenge
-| 13 |  Wed, Mar 3                | Lab Day | Due: [Trees Project](Assignments/TreesProject) & [Article](Assignments/TechArticle.md)
+|  - |  Mon, Mar 29              | [Iterative Sorting Algorithms]  |
+|  1 |  Wed, Mar 31                | **No Class - Cesar Chavez** |
+|  2 |  Mon, Apr 5              | [Divide-and-Conquer Recursion] |
+|  3 |  Wed, Apr 7               | [Divide-and-Conquer Recursion] | Quiz 1 released, Due: [Iterative Sorting Challenges](Assignments/IterativeSort.md)
+|  4 |  Mon, Apr 12                | [Recursive Sorting Algorithms] |
+|  5 |  Wed, Apr 14                 | [Integer Sorting Algorithms] | Due:[Recursive Sorting Challenges](Assignments/RecursiveSort.md)
+|  6 |  Mon, Apr 19                | Lab Day | Quiz 2 released
+|  7 |  Wed, Apr 21              | [Prefix Trees (aka Tries)]| Due: [Integer Sorting Challenges](Assignments/IntegerSort.md)
+|  8 |  Mon, Apr 26              | [Prefix Trees (aka Tries)] II  |
+|  9 |  Wed, Apr 28              | [Rotating Binary Search Trees] | Quiz 3 released
+| 10 |  Mon, May 3              |[Multiple Key Search Trees] | Due: Prefix Tree Challenges
+| 11 |  Wed, May 5              |[Priority Queues & Heaps] |
+| 12 |  Mon, May 10               | Special Topics  | Due: Heaps Challenge
+| 13 |  Wed, May 12                | Lab Day | Due: [Trees Project](Assignments/TreesProject) & [Article](Assignments/TechArticle.md)
 
 
 [Iterative Sorting Algorithms]: Lessons/SortingIterative.md
@@ -66,24 +77,7 @@ Students will also write technical articles about these topics to deepen their u
 [Trees Project]: https://make.sc/cs21-trees-project
 
 
-## Prerequisites
-
-Students must pass the following course and demonstrate mastery of its competencies:
--   [CS 1.3: Core Data Structures & Algorithms](https://make.sc/cs13-repo)
-
-
-## Learning Objectives
-
-By the end of this course, students will be able to:
--   implement and compare several sorting algorithms and know when to use which ones
--   apply divide-and-conquer recursion techniques to elegantly solve complex problems
--   analyze complexity of recursive algorithms with recurrence relations and master theorem
--   implement abstract data types including priority queues, binary heaps, and tries
--   implement self-balancing tree structures including AVL trees, splay trees, and 2-3 trees
--   implement tree traversal algorithms: depth-first and breadth-first ordering
--   utilize bit manipulation algorithms to store and access information in individual bits
-
-## Assignment Submissions
+## Class Assignments
 
 We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
 
@@ -106,9 +100,8 @@ To pass this course, students must meet the following requirements:
     - Integer Sort
     - Prefix Trees
     - Binary Heaps
-    - Trees Project
--   Pass all quizzes with a 70% or higher
--   Complete the technical article assignment with a 70% or higher
+-   Pass all three conceptual quizzes with a 70% or higher
+-   Complete the technical article OR advanced trees project with a 70% or higher
 -   If you are not passing any assignment you have a week to fix any errors and resubmit
 - You are allowed to submit assignments after the due date with instructor permission 
 - You are allowed to drop one coding challenge or quiz
